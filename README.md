@@ -22,26 +22,7 @@ Designed for automating network device configuration, service provisioning, inve
 
 ### High-level flow:
 
-+---------------------+
-| main.py |
-+---------------------+
-|
-v
-+---------------------+
-| services/ |
-| (provision/deactivate) |
-+---------------------+
-|
-v
-+-----------------------------+
-| devices/ |
-| (NETCONF + RESTCONF clients)|
-+-----------------------------+
-|
-v
-+-----------------------------+
-| Network Devices / SND APIs |
-+-----------------------------+
+
 
 ### Mermaid Diagram:
 
