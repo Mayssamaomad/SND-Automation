@@ -1,0 +1,11 @@
+router1:
+  host: "10.10.10.1"
+  username: "admin"
+  password: "admin123"
+  protocol: "netconf"
+
+router2:
+  host: "10.10.20.1"
+  username: "netops"
+  password: "password"
+  protocol: "restconf"

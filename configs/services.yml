@@ -1,0 +1,7 @@
+- service_id: "SVC001"
+  ce: "CE1"
+  pe: "PE1"
+
+- service_id: "SVC002"
+  ce: "CE5"
+  pe: "PE3"
